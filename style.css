@@ -424,16 +424,16 @@ ul {
 
 /* icon images hover */
 .instagram-icon {
-    background-image: url('../image/instagram.png'); 
+    background-image: url('assets/image/instagram.png'); 
 }
 .gmail-icon {
-    background-image: url('../image/gmail.png'); 
+    background-image: url('assets/image/gmail.png'); 
 }
 .linkedin-icon {
-    background-image: url('../image/linkedin.png'); 
+    background-image: url('assets/image/linkedin.png'); 
 }
 .github-icon {
-    background-image: url('../image/github.png'); 
+    background-image: url('assets/image/github.png'); 
 }
 /* Hover Effect */
 .social-icon-link:hover .social-icon-img {
